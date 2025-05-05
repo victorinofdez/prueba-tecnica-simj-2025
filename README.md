@@ -6,10 +6,10 @@ Este proyecto es una solución a la prueba técnica solicitada por **Grupo Soluc
 
 ## 🚀 Tecnologías Utilizadas
 
-- Laravel 10.x
-- PHP 8.1+
-- MySQL / MariaDB
-- Bootstrap 4
+- Laravel 10.48.29
+- PHP 8.1.14
+- MySQL / MariaDB-10.6
+- Bootstrap 4.6.2
 - AdminLTE 3
 
 ---
