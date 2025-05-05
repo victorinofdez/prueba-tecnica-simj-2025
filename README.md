@@ -1,2 +1,20 @@
-# prueba-tecnica-simj-2025
-Prueba técnica Grupo Soluciones Informáticas
+# Prueba Técnica - Grupo Soluciones Informáticas
+
+Este proyecto es una solución a la prueba técnica solicitada por **Grupo Soluciones Informáticas**, desarrollada con el framework **Laravel 10**, **PHP 8.1** y estilos basados en **Bootstrap 4** utilizando la plantilla **AdminLTE 3**. El sistema implementa un gestor de proyectos y tareas con control de acceso y funciones diferenciadas para administradores.
+
+---
+
+## 🚀 Tecnologías Utilizadas
+
+- Laravel 10.x
+- PHP 8.1+
+- MySQL / MariaDB
+- Bootstrap 4
+- AdminLTE 3
+
+---
+
+## 🛠 Instalación y Configuración
+
+1. Clonar el repositorio:
+
